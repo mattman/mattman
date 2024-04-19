@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 📍Based in Boorloo / Perth
+- 📍 Based in Boorloo / Perth
 - 🤵🏼‍♂️ Pronouns: He/Him/His
 - 🚑 I'm currently working as the Clinical Digital Specialist for an ambulance service (and am a registered Paramedic as well!)
 - 🚂 I still dabble in some Ruby and Rails development in my spare time
-- 🐶 Loves dogs (and cats too! 🐈)
+- 🐶 Loves dogs, cats 🐈 and giraffes 🦒
 - ☕️ Frequently seen with a coffee
 
 <!--
